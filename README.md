@@ -11,5 +11,5 @@ OSC Talks is a Hand's on Session on Git, where you will learn:
 
 | # | Session | Documentation |
 |:-----:| :-----: | :-----------: |
-| 1 | Git Session -1 | [:arrow_forward:]((https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/blob/main/OSC-Talks-Session-1/README.md#git-session-1)) |
+| 1 | Git Session -1 | [:arrow_forward:](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/blob/main/OSC-Talks-Session-1/README.md#git-session-1) |
 
