@@ -1,4 +1,4 @@
-# OSC-Talks
+# Git Session-1
 
 ## What is Version Control?
 - Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.   
