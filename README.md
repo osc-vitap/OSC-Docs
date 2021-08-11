@@ -1,8 +1,15 @@
 # OSC-Talks
 ## What is OSC-Talks?
-- OSC Talks is a Hand's on Session on Git, where you will learn:
+
+OSC Talks is a Hand's on Session on Git, where you will learn:
+
 - **What is VCS(Version Control System)?**
 - **What is Git?**
 - **Getting started with GitHub.**
 - **Collaborating and forming PRs(Pull Requests).**
 - **Contributing to an actual organization on GitHub.**
+
+| # | Session | Documentation |
+|:-----:| :-----: | :-----------: |
+| 1 | Git Session -1 | [:arrow_forward:]([OSC-Talks/README.md at main · Open-Source-Community-VIT-AP/OSC-Talks (github.com)](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/blob/main/OSC-Talks-Session-1/README.md#git-session-1)) |
+
