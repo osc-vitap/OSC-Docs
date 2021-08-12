@@ -2,6 +2,18 @@
 
 Hey there, welcome to the Git Session-1 documentation. We have compiled the contents on Git and Github for you, so get a step closer to your first open source contribution.
 
+## Table of Contents
+
+| # | Topic |
+| :-------: | :-------:|
+| 1 | [Version Control System (VCS)](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-version-control-system-ever-heard-of-it-) |
+| 2 | [Distributed Version Control System (DVCS)](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-distributed-version-control-system-dvcs-and-git) |
+| 3 | [Life with Git](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-life-with-git) | 
+| 4 | [Getting your hands dirty with Git](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#%EF%B8%8F-getting-your-hands-dirty-with-git) |
+| 5 | [Some advanced git commands](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#some-advanced-git-commands) |
+| 6 | [Git in a Nutshell](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-git-in-a-nutshell) |
+| 7 | [Resources](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-resources-on-git-and-github) |
+
 ## 🔧 Version Control System, Ever heard of it ?
 
 Consider you are in a project and there constant changes in codes like addition of new modules, fixing of existing bugs, removing of un-necessary or outdated options then, sometimes due to some mistakes, the product goes unstable. then if you have the old code of your project, somewhere(Maybe Cloud/ Secondary Storage Devices) and you can go 
@@ -64,7 +76,7 @@ Guess what: Most Developers Prefer CLI Mode.
    - The repository that is not public and has lot of restrictions handled by the owner of the repository. To make a contribution, you need to ask the owner to give you access.
    Note that private repositories are not visible to public, so you can create a private repository if you are working on a secret project 😜.
 
-  Before we go further we suggest you to download the Git CLI version, checkout [resource](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#Resources-On-Git-And-Github) section for the download link.
+  Before we go further we suggest you to download the Git CLI version, checkout [resource](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-resources-on-git-and-github) section for the download link.
   
   #### Configuring Git:
 
