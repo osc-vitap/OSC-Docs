@@ -188,6 +188,29 @@ Stashing is a local task and it's not pushed to the server when you push.
 > 
 > This will clone the remote repository to the current directory and now the new repository directory on your machine becomes a local repostiory.
 
+- #### 👉🏻 Creating an Issue:
+- This is done by GUI Method:
+
+1. Navigate to the main page of the repo you are working on
+ ![Main_Page](https://user-images.githubusercontent.com/56529575/129234948-913f66d9-c592-4fb3-be32-c47344d2db98.png)
+
+2. Now, under the name of the repo; you can see a bunch of options. Select issues among them.
+ ![Issues](https://user-images.githubusercontent.com/56529575/129235239-51fa8a1c-d72f-42a8-9e66-4294f61f8aba.png)
+ 
+3. Now Click on New issue.
+ ![New_Issue](https://user-images.githubusercontent.com/56529575/129235739-2fcbe8bc-23b7-4b0a-8389-81ec12812e4d.png)
+
+
+4. If there are some issue templates, select get started button, that is available next to the type of the issue you want to create.
+ ![Existing_Issue](https://user-images.githubusercontent.com/56529575/129235461-c5adaff0-00a6-456d-bad6-8dda51e36f44.png)
+
+5. You can also click on- Open a blank issue, if the type you are searching for is absent.
+![Blank_Issue](https://user-images.githubusercontent.com/56529575/129235532-6400d41b-eb37-4788-8b76-aef1b47c4324.png)
+
+6. Type the Title for the issue, then add some context for your issue. and click on submit issue.
+![Submit_Issue](https://user-images.githubusercontent.com/56529575/129235579-bef6cf2d-2e0d-437d-ba38-9c3e71107cb0.png)
+
+
 ## 🔩 Git in a NutShell
 
 #### 🔵 Features
