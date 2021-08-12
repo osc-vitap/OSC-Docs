@@ -11,8 +11,9 @@ Hey there, welcome to the Git Session-1 documentation. We have compiled the cont
 | 3 | [Life with Git](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-life-with-git) | 
 | 4 | [Getting your hands dirty with Git](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#%EF%B8%8F-getting-your-hands-dirty-with-git) |
 | 5 | [Some advanced git commands](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#some-advanced-git-commands) |
-| 6 | [Git in a Nutshell](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-git-in-a-nutshell) |
-| 7 | [Resources](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-resources-on-git-and-github) |
+| 6 | [Contributing using two Features of GitHub](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#contributing-using-two-features-of-github) |
+| 7 | [Git in a Nutshell](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-git-in-a-nutshell) |
+| 8 | [Resources](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-resources-on-git-and-github) |
 
 ## 🔧 Version Control System, Ever heard of it ?
 
@@ -218,6 +219,49 @@ Stashing is a local task and it's not pushed to the server when you push.
 > Command: `git clone <remote repository link>`
 > 
 > This will clone the remote repository to the current directory and now the new repository directory on your machine becomes a local repostiory.
+
+### Contributing using two Features of GitHub
+
+There are two popular features of GitHub that makes working with git to contribute more awesome. 
+  1. Pull Request
+  2. Issues
+ 
+- 👉🏻 Pull Request
+  
+    You might be hearing this word for the first time but trust me, to your open source contribution.
+    Up until now, we saw on how to access git and use the tools to work on public repositories but ever
+    wondered how we share our work with other repositories? It's really simple, you just send a Pull Request.
+
+    Pull request is a feature, something like asking or requesting the owner of a repository to look
+    on the changes you made and check if the changes you've made are compatible with the original
+    contents in the repository or not. So, in short pull requests speaks for the work you have contributed.
+
+    Sending a Pull Request is really easy to be honest. You can send a pull request by submitting a branch which contains your work
+    or you can submit your work done in a forked repository.
+
+    Once you push your changes to both, either the branch you were working on or the fork repository.
+    You will be able to send in pull requests.
+
+    - PR by branching:
+
+        After pushing, open the repository and the branch you were working on and you will be able to see an alert stating that `you are x commits ahead of main branch`, this      simply tells you that there are unmerged or unpublished changes on the current branch which can be updated to the main branch. And thus you will be sending your changes to the main branch from the current branch using a PR.
+
+        Click on the `Compare and Pull Request` button in the alert and you will be able to see a small form, fill in your PR details and submit your PR and the 
+        merging of your changes will be decided by the owner of the repository. 
+
+        Fun Fact: You can automate merging of PRs.
+
+    - PR by Forking:
+
+        Once your changes are committed and pushed to the server, your forked repository will notify you that you are eligible to 
+        send a Pull Request as some changes were made. Again, press the `Compare and Pull Request` button displayed on the screen and
+        voila, fill in the form and all that is left it to press the submit button!
+
+        Then all you need to do is to wait for the owner of the repository to accept the changes by merging
+        your pull request into the main or some other branch.
+
+        Another Fun Fact: You can send pull request between any branches. It is not only restricted to the main branch.
+
 
 ## 🔩 Git in a NutShell
 
