@@ -1,115 +1,83 @@
-# 📢 Git Session-1
+# 📢 The First Git Session
 
-Hey there, welcome to the Git Session-1 documentation. We have compiled the contents on Git and Github for you, so get a step closer to your first open source contribution.
+Hey there, welcome to the Git Session-1 documentation. We've compiled the contents of Git and Github for you into a concise guide, so, let's get you a step closer to your first open source contribution.
 
-## Table of Contents
+## 🔧 What's a Version Control System?
 
-| # | Topic |
-| :-------: | :-------:|
-| 1 | [Version Control System (VCS)](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-version-control-system-ever-heard-of-it-) |
-| 2 | [Distributed Version Control System (DVCS)](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-distributed-version-control-system-dvcs-and-git) |
-| 3 | [Life with Git](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-life-with-git) | 
-| 4 | [Getting your hands dirty with Git](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#%EF%B8%8F-getting-your-hands-dirty-with-git) |
-| 5 | [Some advanced git commands](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#some-advanced-git-commands) |
-| 6 | [Contributing using two Features of GitHub](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#contributing-using-two-features-of-github) |
-| 7 | [Git in a Nutshell](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-git-in-a-nutshell) |
-| 8 | [Resources](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-resources-on-git-and-github) |
+Consider being in a project with changes in the code being constant.
+The addition of new modules, bug fixes, and the removal of unnecessary or deprecated options.
 
-## 🔧 Version Control System, Ever heard of it ?
+As humans, we sometimes make mistakes.
+Generally, these mistakes mean that the product becomes unstable and may even fail.
+At this point, as a developer, you see your entire career flash by your eyes.
 
-Consider you are in a project and there constant changes in codes like addition of new modules, fixing of existing bugs, removing of un-necessary or outdated options then, sometimes due to some mistakes, the product goes unstable. then if you have the old code of your project, somewhere(Maybe Cloud/ Secondary Storage Devices) and you can go 
-back to the last stable version, it would be very much helpful to you. And this concept is known as version control.
+However, this is where Version Control comes into the picture.
+Version Control works as a checkpoint system much like in games.
+It creates checkpoints in the form of commits, and you can roll back to the previous version of your project.
 
-We have different versions of Version Control System, but git is the most popular version control system: 
+We have different kinds of Version Control Systems, but `git` is the considerably the most popular version control system.
+Here's a list of the Version Control Systems that you might come across though,
 - Git 
 - Mercurial
 - Apache Subversion System 
 - Monotone
 - Bazaar
 
+## ❔ Why do we even need Git?
 
-## 🔧 Distributed Version Control System (DVCS) and Git
+If the career dependent guy above wasn't enough to make a mark on why you should be using git, here's a few more points that should sell it,
+  - Git keeps track of changes made to a file, basically functioning as it's own changelog.
+  - It keeps a note of all the files that are there inside a project.
+  - Git can compare and analyse different pieces of codes with the help of the `git diff` utility.
+  - You can commit your changes even whilst being offline and disconnected from the internet.
+  - Every change you make is noted in the hidden folder of git, the verification of the files is done by decoding the hash codes in your commit.
+  
+  All the commits made on Git, is denoted by a unique hash code, this allows you to turn back time to back when the issue never even existed!
+  While this is not the end of how git makes your life easier, we must proceed to finally working with it now.
+  
+  In order to learn more about how Git actually works, consider checking out the [Book](https://git-scm.com/book/en/v2).
 
-The truth is, Git is a distributed version control system. Distributed Version Control System is a type of version control system, where the complete code/files in the repository
-including its full history of different versions, is shown on every developer's computer. Using git, a user can make changes to an entire repository on their local system and update it to the server when network is available. Git asks you about the changes you make and stores them as log files, this ensures that no changes can be made without git knowing it so there will not be any problem with managin your previous version of the repositories.
+## 🔧 So, how do I work with Git?
 
-## 🔧 Life with Git
-
-Git supports both :
+There's two forms of working with Git,
   1. Command Line Interface (CLI Mode)
   2. Graphical User Interface (GUI Mode)
 
-Guess what: Most Developers Prefer CLI Mode.
+Random Fun Fact?
+Most Developers Prefer CLI Mode.
 
-### ❔ Why do we even need Git?
-
-  Here are some things to consider about git:
-  - Git keeps track of changes made to a file.(makes note of different versions of the same file)
-  - It also keeps a note of all the files that are there inside a project
-  - Git can compare and analyse different codes with the help of `diff` tool.
-  - You can publish your changes offline in your local repository and update it to the server(GitHub) later, so yeah git lets you finish your work even if you are travelling and       have no access to the internet.
-  - Every change you make is known to git, the verification of the files is done by decoding the hash codes in your commit.
+Before we go further we suggest that you download the Git CLI version, checkout [resource](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#Resources-On-Git-And-Github) section for the download link.
   
-    ***Fact: Every commit is denoted by a unique hash code.***
-  
-  This is not the end of how git makes your life easier but yeah we won't have enough space for other contents if we continued stating other features of github.
-  
-  Here is a secret 🤫, checkout [features of git](https://www.geeksforgeeks.org/git-features/).
-  
-### ⚙️ Getting your hands dirty with Git
-  
-  This section covers some basics and enough knowledge on how to use git. To work with git or github, you need to have either a local repository or a remote repository.
-  
-  #### Local Repository ❔
-  
-   - A local clone of the remote repository which can be done by cloning the remote repository using the `git clone` command, don't worry we will explain more in detail soon.
-  
-  #### Remote Repository ❔
-  
-   - A remote repository is the repository hosted on github and it can be cloned and will be accessible to others if the repository is public.
-  
-  #### Public Repository ❔
-  
-   - The repository that is open to public to see and make contributions freely. It's open to everyone.
-  
-  #### Private Repository ❔
-  
-   - The repository that is not public and has lot of restrictions handled by the owner of the repository. To make a contribution, you need to ask the owner to give you access.
-   Note that private repositories are not visible to public, so you can create a private repository if you are working on a secret project 😜.
-
-  Before we go further we suggest you to download the Git CLI version, checkout [resource](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#-resources-on-git-and-github) section for the download link.
-  
-  #### Configuring Git:
+ ## Configuring Git
 
   1. Open Your CMD/ git bash shell
   2. Type the command:     
       ```shell
         git config --global user.name "YOUR GITHUB USER NAME"
-        git config --global user.email "EMAIL Address Associated with your github Account"
+        git config --global user.email "EMAIL ADDRESS"
       ```
       These commands will let the locally installed git know that you are person `xyz` with email `xyz@email.com`. Yeah, now your git client is associated with your account.
       
-  #### Some Basic Terminal Commands
+  ## Some Basic Terminal Commands
   
-   Some CMD Commands that you may need for switching directories, creating folders,creating files, opening files,deleting files, deleting directories 
+   Some CMD Commands that you may need for switching directories, creating folders, creating files, opening files, deleting files, deleting directories, and the such, 
     
   ```cmd
-
-      1. cd Path_Of_Directory        (It changes the current working directory to the path mentioned by you)
-      2. cd..                        (It Goes Up by one directory)
-      3. mkdir Name_Of_Folder         (It Creates a new folder with the name mentioned by you)
+      1. cd path/to/dir       (It changes the current working directory to the path mentioned by you)
+      2. cd ..                        (It Goes Up by one directory)
+      3. mkdir folderName         (It Creates a new folder with the name mentioned by you)
       3. echo >> FileName.FileType    (It Creates a file, with the type/format specified by you)
       4. notepad FileName.FileType    (Opens the file specified by you in the notepad)
       5. rm FileName.FileType         (Deletes the file mentioned by you)
-      6. rmdir PathOfTheDirectory     (Deletes a particular folder/directory that was specified)
-
+      6. rmdir path/to/dir     (Deletes a particular folder/directory that was specified)
   ```
       
-  #### Working with git on your system:
+  #### Working with Git on your system:
   
   - #### 👉🏻 Initialization:
   
-   First you need to create a local repository, so create a new folder ... now open your command prompt/terminal and migrate to a folder where you want to create a repository.
+   First you need to create a local repository, so create a new folder.
+   Now, open your command prompt/terminal and migrate to a folder where you want to create a repository.
 
   > Command:  `git init`
   > 
@@ -219,49 +187,6 @@ Stashing is a local task and it's not pushed to the server when you push.
 > Command: `git clone <remote repository link>`
 > 
 > This will clone the remote repository to the current directory and now the new repository directory on your machine becomes a local repostiory.
-
-### Contributing using two Features of GitHub
-
-There are two popular features of GitHub that makes working with git to contribute more awesome. 
-  1. Pull Request
-  2. Issues
- 
-- 👉🏻 Pull Request
-  
-    You might be hearing this word for the first time but trust me, to your open source contribution.
-    Up until now, we saw on how to access git and use the tools to work on public repositories but ever
-    wondered how we share our work with other repositories? It's really simple, you just send a Pull Request.
-
-    Pull request is a feature, something like asking or requesting the owner of a repository to look
-    on the changes you made and check if the changes you've made are compatible with the original
-    contents in the repository or not. So, in short pull requests speaks for the work you have contributed.
-
-    Sending a Pull Request is really easy to be honest. You can send a pull request by submitting a branch which contains your work
-    or you can submit your work done in a forked repository.
-
-    Once you push your changes to both, either the branch you were working on or the fork repository.
-    You will be able to send in pull requests.
-
-    - PR by branching:
-
-        After pushing, open the repository and the branch you were working on and you will be able to see an alert stating that `you are x commits ahead of main branch`, this      simply tells you that there are unmerged or unpublished changes on the current branch which can be updated to the main branch. And thus you will be sending your changes to the main branch from the current branch using a PR.
-
-        Click on the `Compare and Pull Request` button in the alert and you will be able to see a small form, fill in your PR details and submit your PR and the 
-        merging of your changes will be decided by the owner of the repository. 
-
-        Fun Fact: You can automate merging of PRs.
-
-    - PR by Forking:
-
-        Once your changes are committed and pushed to the server, your forked repository will notify you that you are eligible to 
-        send a Pull Request as some changes were made. Again, press the `Compare and Pull Request` button displayed on the screen and
-        voila, fill in the form and all that is left it to press the submit button!
-
-        Then all you need to do is to wait for the owner of the repository to accept the changes by merging
-        your pull request into the main or some other branch.
-
-        Another Fun Fact: You can send pull request between any branches. It is not only restricted to the main branch.
-
 
 ## 🔩 Git in a NutShell
 
