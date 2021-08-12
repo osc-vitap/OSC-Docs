@@ -7,7 +7,7 @@ OSC Talks is a Hand's on Session on Git, where you will learn:
 - **Collaborating and forming PRs(Pull Requests).**
 - **Contributing to an actual organization on GitHub.**
 
-- Through the medium of this series, we assure to imbibe basic tech - knowledge through various sessions planned out over the course of this year. Ranging from Git to the imminent software in the realm of open source, we assure to tweak your wit. 
+Through the medium of this series, we assure to imbibe basic tech - knowledge through various sessions planned out over the course of this year. Ranging from Git to the imminent software in the realm of open source, we assure to tweak your wit. 
 
 
 
