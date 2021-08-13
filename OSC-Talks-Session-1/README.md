@@ -46,7 +46,7 @@ There's two forms of working with Git,
 Random Fun Fact?
 Most Developers Prefer CLI Mode.
 
-Before we go further we suggest that you download the Git CLI version, checkout [resource](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/tree/main/OSC-Talks-Session-1#Resources-On-Git-And-Github) section for the download link.
+Before we go further we suggest that you download the Git CLI version, checkout [resource](https://github.com/Open-Source-Community-VIT-AP/OSC-Talks/blob/main/OSC-Talks-Session-1/README.md#-resources-on-git-and-github) section for the download link.
   
  ## Configuring Git
 
