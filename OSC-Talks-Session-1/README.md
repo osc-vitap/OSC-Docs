@@ -89,7 +89,7 @@ Before we go further we suggest that you download the Git CLI version, checkout 
 
   > command: `git status`
   >
-  > It will display on which branch you are and say the status of the files in that repo.
+  > It will display on which branch you are and say the status of the files in that repository.
   >
   > It will display whether you need to update any files or not.
 
@@ -119,7 +119,7 @@ Here Comes the step after commiting, the `git push` command is used to upload th
 
 Pushing has the potential, to over write changes, and we should be careful while pushing.
 
-> Command: `git push <remote_Repo> <Name of the branch>`
+> Command: `git push <remote_repository> <Name of the branch>`
 > 
 > Run this command if you are pushing for the first time, to avoid ay errors.
 >
@@ -187,6 +187,29 @@ Stashing is a local task and it's not pushed to the server when you push.
 > Command: `git clone <remote repository link>`
 > 
 > This will clone the remote repository to the current directory and now the new repository directory on your machine becomes a local repostiory.
+
+- #### 👉🏻 Creating an Issue:
+- We can do this in a GUI format:
+
+1. Navigate to the main page of the repository you are working on
+ ![Main_Page](https://user-images.githubusercontent.com/56529575/129234948-913f66d9-c592-4fb3-be32-c47344d2db98.png)
+
+2. Now, under the name of the repository; you can see a bunch of options. Select issues among them.
+ ![Issues](https://user-images.githubusercontent.com/56529575/129235239-51fa8a1c-d72f-42a8-9e66-4294f61f8aba.png)
+ 
+3. Now, click on the New Issue button.
+ ![New_Issue](https://user-images.githubusercontent.com/56529575/129235739-2fcbe8bc-23b7-4b0a-8389-81ec12812e4d.png)
+
+
+4. If there are some issue templates, you will need to select the get started button, which should be next to the type of issue you wish to create.
+ ![Existing_Issue](https://user-images.githubusercontent.com/56529575/129235461-c5adaff0-00a6-456d-bad6-8dda51e36f44.png)
+
+5. If there are no templates that correspond to your issue, then, click on the option to open up a blank issue.
+![Blank_Issue](https://user-images.githubusercontent.com/56529575/129235532-6400d41b-eb37-4788-8b76-aef1b47c4324.png)
+
+6. Type the Title for the issue, then add some context for your issue. and click on submit issue.
+![Submit_Issue](https://user-images.githubusercontent.com/56529575/129235579-bef6cf2d-2e0d-437d-ba38-9c3e71107cb0.png)
+
 
 ## 🔩 Git in a NutShell
 
