@@ -121,7 +121,7 @@ Pushing has the potential, to over write changes, and we should be careful while
 
 > Command: `git push <remote_repository> <Name of the branch>`
 > 
-> Run this command if you are pushing for the first time, to avoid ay errors.
+> Run this command if you are pushing for the first time, to avoid any errors.
 >
 > Simpler command: `git push`
 >
@@ -155,7 +155,7 @@ The tasks that happen after using the above command are:
  >
  > This command includes then untracked files.
 
- > Adding all the files to stash:
+ > Adding all the files to stash,
  > 
  > command: `git stash -a`        
 
@@ -163,7 +163,7 @@ You can have multiple stashes; it means you aren't limited to one stash
 
 you can run the git stash command multiple times to create stashes.
 To View all the stashes made: use the commadn: git stash list
-As default, stashes are identifed as WIP (Work in Progress)
+As default, stashes are identifed as **Work in Progress**.
 
 So, if all the stashes look same, it's difficult to identify what you've done.
 so, adding context to your stash helps:
