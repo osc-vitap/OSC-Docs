@@ -249,6 +249,7 @@ Stashing is a local task and it's not pushed to the server when you push.
 
 ### Some known contents for beginners
 - [OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101), the sanctuary of OpenSourcing.
+- [Learn Git by visualizing commits and branches](https://learngitbranching.js.org/).
 - Read or Download the [ProGit book](https://git-scm.com/book/en/v2) by Git. If you finish reading this book by any chance then you might be able to even contribute to git.
 - [Content By OSC's Community Leader](https://docs.vijaybalaji.me/resources/git-and-github-resources) 
 - [Learn Git under 10 mins](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/) for speedrunners.
