@@ -50,7 +50,7 @@ Before we go further we suggest that you download the Git CLI version, checkout 
   
  ## Configuring Git
 
-  1. Open Your CMD/ git bash shell
+  1. Open Your Terminal/Git bash shell
   2. Type the command:     
       ```shell
         git config --global user.name "YOUR GITHUB USER NAME"
@@ -63,13 +63,13 @@ Before we go further we suggest that you download the Git CLI version, checkout 
    Some CMD Commands that you may need for switching directories, creating folders, creating files, opening files, deleting files, deleting directories, and the such, 
     
   ```cmd
-      1. cd path/to/dir       (It changes the current working directory to the path mentioned by you)
+      1. cd path/to/dir               (It changes the current working directory to the path mentioned by you)
       2. cd ..                        (It Goes Up by one directory)
-      3. mkdir folderName         (It Creates a new folder with the name mentioned by you)
+      3. mkdir folderName             (It Creates a new folder with the name mentioned by you)
       3. echo >> FileName.FileType    (It Creates a file, with the type/format specified by you)
       4. notepad FileName.FileType    (Opens the file specified by you in the notepad)
       5. rm FileName.FileType         (Deletes the file mentioned by you)
-      6. rmdir path/to/dir     (Deletes a particular folder/directory that was specified)
+      6. rmdir path/to/dir            (Deletes a particular folder/directory that was specified)
   ```
       
   #### Working with Git on your system:
