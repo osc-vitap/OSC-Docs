@@ -1,17 +1,23 @@
-# OSTalks
-## What is OSTalks?
+---
+description: OSC Documents
+---
 
-We are back with yet another, witty and functional series, Open-Source Talks. We, through the medium of this series, assure to give you insights of what is Open Source, and imbibe basic tech - knowledge through various sessions planned out over the course of this year. Ranging from Git to the imminent software in the realm of open source, we assure to tweak your wit.
+# Admin-Guide
 
-## What is OSTalks Session-1 About?
-OSTalks **Session-1** is a Hand's on Session on Git, where you will learn:
-- **What is VCS(Version Control System)?**
-- **What is Git?**
-- **Getting started with GitHub.**
-- **Collaborating and forming PRs(Pull Requests).**
-- **Contributing to an actual organization on GitHub.**
+![](.gitbook/assets/logo.png)
 
-| # | Session | Documentation |
-|:-----:| :-----: | :-----------: |
-| 1 | Git Session -1 | [:arrow_forward:](https://github.com/Open-Source-Community-VIT-AP/OSTalks/blob/main/OSTalks-Session-1/README.md#git-session-1) |
+Admin guide is the ultimate guidebook required to understand how the OSC club functions and to learn about all the different roles and responsibilities of various members under different departments. To understand event flow and other essential components of running the club.
 
+## How to Explore
+
+### On a Computer
+
+If this is your first time here, you can use the sidebar on the right to navigate through the content.
+
+If you know what you are looking for, use the search bar in the top right corner.
+
+### On a Mobile Device
+
+You can use the sidebar on the top left corner to navigate through the content.
+
+If you know what you are looking for, you can search for it by clicking on the search button in the top right corner.
