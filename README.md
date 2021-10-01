@@ -2,7 +2,7 @@
 description: OSC Documents
 ---
 
-# Admin-Guide
+# OSC Docs
 
 ![](.gitbook/assets/logo.png)
 
