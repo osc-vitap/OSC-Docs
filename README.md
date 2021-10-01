@@ -6,7 +6,7 @@ description: OSC Documents
 
 ![](.gitbook/assets/logo.png)
 
-Admin guide is the ultimate guidebook required to understand how the OSC club functions and to learn about all the different roles and responsibilities of various members under different departments. To understand event flow and other essential components of running the club.
+OSC Documents.
 
 ## How to Explore
 
