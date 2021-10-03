@@ -14,4 +14,4 @@ TechCast **Session-3** is a Session on DevOps And Microservices, By Giuseppe Bon
 **Episode 3** Is a Hacktoberfest Special Episode.
 | # | Session | Documentation |
 |:-----:| :-----: | :-----------: |
-| 1 | TechCast Session -3 | [▶️](https://docs.oscvitap.org/ostalks/session-1) |
+| 1 | TechCast Session -3 | [▶️](https://docs.oscvitap.org/techcast/episode-3) |
