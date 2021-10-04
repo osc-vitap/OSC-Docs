@@ -1,14 +1,20 @@
 ---
-description: OSC Documents
+description: A simple collection of resources gathered from our events.
 ---
 
 # OSC Docs
 
 ![](.gitbook/assets/logo.png)
 
-OSC Documents.
-
 ## How to Explore
+
+Welcome to the Open Source Community's documentation repository!
+
+We gather resources and documentation from our community's speaker and student sessions.
+Providing a simple, yet concise guide on how to get started with the concepts that were discussed in the event.
+
+This repository will generally contain the speaker notes, references, an abstract concept overview,
+and if we're up to date with what we're doing, a training exercise to get you started as well!
 
 ### On a Computer
 
