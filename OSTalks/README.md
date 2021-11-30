@@ -1,6 +1,6 @@
 # OSTalks
 
-![](.gitbook/assets/ostalks_logo.png)
+![](/.gitbook/assets/ostalks_logo.png)
 
 ## What is OSTalks?
 
