@@ -4,7 +4,7 @@ description: OSC Documents
 
 # OSC Docs
 
-![](.gitbook/assets/oslogo.png)
+![](/.gitbook/assets/logo.png)
 
 OSC Documents.
 
