@@ -50,7 +50,7 @@ Head over to [blender.org](https://www.blender.org/) and select the download lin
 
 Below is an example of a simple 3D model that is built by beginners to exercise the basics of the 3D space and geometry offered by Blender. During the course of this event we will be building 3D models, and by the end of this episode you'll be able to bring your own ideas to life too.
 <p align="center">
-<img src =https://pbblogassets.s3.amazonaws.com/uploads/2021/03/08120645/blenderdonut_todds.jpg>
+<img src=https://i.ibb.co/vs6CvKZ/68747470733a2f2f7062626c6f676173736574732e73332e616d617a6f6e6177732e636f6d2f75706c6f6164732f32303231.jpg>
 </p>
 
 ## 📖 Basics of Blender
